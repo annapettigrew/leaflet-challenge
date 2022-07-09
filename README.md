@@ -16,4 +16,4 @@ This includes:
 - Popups that provide additional information about the earthquake when its associated marker is clicked.
 - A legend that will provide context for the map data.
 
-![Screen Shot 2022-07-07 at 11 45 43 PM](https://user-images.githubusercontent.com/97136642/178123607-17da84be-85d1-465c-86a3-7ae0bb77d4fc.png)
+![Screen Shot 2022-07-09 at 5 43 04 PM](https://user-images.githubusercontent.com/97136642/178123619-397273ee-70a6-458c-a155-12a7330a63c2.png)
