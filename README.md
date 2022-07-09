@@ -15,4 +15,5 @@ Next, I imported and visualized the data by doing the following:
 This includes:
 - Popups that provide additional information about the earthquake when its associated marker is clicked.
 - A legend that will provide context for the map data.
-![Screen Shot 2022-07-07 at 11 45 43 PM](https://user-images.githubusercontent.com/97136642/177912873-e16011a9-7730-4db0-97f9-ec28e2c80997.png)
+
+![Screen Shot 2022-07-07 at 11 45 43 PM](https://user-images.githubusercontent.com/97136642/178123607-17da84be-85d1-465c-86a3-7ae0bb77d4fc.png)
